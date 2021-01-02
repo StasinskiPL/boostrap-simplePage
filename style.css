@@ -1,0 +1,9 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+}
+section{
+    padding-top: 40px;
+    min-height: 100vh;
+}
